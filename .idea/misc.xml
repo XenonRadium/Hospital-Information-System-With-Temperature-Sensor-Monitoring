@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Current Sem/FYP2/Prototype/app/src/main/res/drawable/custom_button_back.xml" value="0.1" />
+        <entry key="..\:/Current Sem/FYP2/Prototype/app/src/main/res/drawable/ic_add.xml" value="0.1" />
+        <entry key="..\:/Current Sem/FYP2/Prototype/app/src/main/res/drawable/ic_baseline_exit_to_app_24.xml" value="0.1" />
+        <entry key="..\:/Current Sem/FYP2/Prototype/app/src/main/res/drawable/ic_baseline_fingerprint_24.xml" value="0.11666666666666667" />
+        <entry key="..\:/Current Sem/FYP2/Prototype/app/src/main/res/drawable/ic_baseline_person_outline_24.xml" value="0.1" />
+        <entry key="..\:/Current Sem/FYP2/Prototype/app/src/main/res/layout/activity_add.xml" value="0.264" />
+        <entry key="..\:/Current Sem/FYP2/Prototype/app/src/main/res/layout/activity_admin.xml" value="0.264" />
+        <entry key="..\:/Current Sem/FYP2/Prototype/app/src/main/res/layout/activity_fingerprint.xml" value="0.2" />
+        <entry key="..\:/Current Sem/FYP2/Prototype/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Current Sem/FYP2/Prototype/app/src/main/res/layout/activity_main.xml" value="0.253125" />
+        <entry key="..\:/Current Sem/FYP2/Prototype/app/src/main/res/layout/activity_register.xml" value="0.253125" />
+        <entry key="..\:/Current Sem/FYP2/Prototype/app/src/main/res/layout/activity_update.xml" value="0.25317028985507245" />
+        <entry key="..\:/Current Sem/FYP2/Prototype/app/src/main/res/menu/admin_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Current Sem/FYP2/Prototype/app/src/main/res/menu/general_menu.xml" value="0.1" />
+        <entry key="..\:/Users/berna/Desktop/Current Sem/FYP2/Prototype/app/src/main/res/drawable-v24/custom_button_back2.xml" value="0.3828125" />
+        <entry key="..\:/Users/berna/Desktop/Current Sem/FYP2/Prototype/app/src/main/res/drawable-v24/custom_button_back3.xml" value="0.3828125" />
+        <entry key="..\:/Users/berna/Desktop/Current Sem/FYP2/Prototype/app/src/main/res/drawable/custom_button_back.xml" value="0.3828125" />
+        <entry key="..\:/Users/berna/Desktop/Current Sem/FYP2/Prototype/app/src/main/res/drawable/ic_baseline_person_outline_24.xml" value="0.1" />
+        <entry key="..\:/Users/berna/Desktop/Current Sem/FYP2/Prototype/app/src/main/res/layout/activity_add.xml" value="0.33" />
+        <entry key="..\:/Users/berna/Desktop/Current Sem/FYP2/Prototype/app/src/main/res/layout/activity_admin.xml" value="0.1" />
+        <entry key="..\:/Users/berna/Desktop/Current Sem/FYP2/Prototype/app/src/main/res/layout/activity_device_monitor.xml" value="0.2759259259259259" />
+        <entry key="..\:/Users/berna/Desktop/Current Sem/FYP2/Prototype/app/src/main/res/layout/activity_fingerprint.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/berna/Desktop/Current Sem/FYP2/Prototype/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/berna/Desktop/Current Sem/FYP2/Prototype/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/berna/Desktop/Current Sem/FYP2/Prototype/app/src/main/res/layout/activity_register.xml" value="0.67" />
+        <entry key="..\:/Users/berna/Desktop/Current Sem/FYP2/Prototype/app/src/main/res/layout/activity_update.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/berna/Desktop/Current Sem/FYP2/Prototype/app/src/main/res/layout/app_toolbar.xml" value="0.1" />
+        <entry key="..\:/Users/berna/Desktop/Current Sem/FYP2/Prototype/app/src/main/res/layout/device_list_item.xml" value="0.2759259259259259" />
+        <entry key="..\:/Users/berna/Desktop/Current Sem/FYP2/Prototype/app/src/main/res/layout/drawer_header.xml" value="0.3138888888888889" />
+        <entry key="..\:/Users/berna/Desktop/Current Sem/FYP2/Prototype/app/src/main/res/layout/linechart_popup.xml" value="0.2953703703703704" />
+        <entry key="..\:/Users/berna/Desktop/Current Sem/FYP2/Prototype/app/src/main/res/layout/list_item.xml" value="0.3055555555555556" />
+        <entry key="..\:/Users/berna/Desktop/Current Sem/FYP2/Prototype/app/src/main/res/layout/monitorLlinechart_popup.xml" value="0.225" />
+        <entry key="..\:/Users/berna/Desktop/Current Sem/FYP2/Prototype/app/src/main/res/layout/monitor_linechart_popup.xml" value="0.33" />
+        <entry key="..\:/Users/berna/Desktop/Current Sem/FYP2/Prototype/app/src/main/res/layout/popup.xml" value="0.2909090909090909" />
+        <entry key="..\:/Users/berna/Desktop/Current Sem/FYP2/Prototype/app/src/main/res/menu/admin_menu.xml" value="0.3" />
+        <entry key="..\:/Users/berna/Desktop/Current Sem/FYP2/Prototype/app/src/main/res/menu/general_menu.xml" value="0.3" />
+        <entry key="..\:/Users/berna/Desktop/Current Sem/FYP2/Prototype/app/src/main/res/menu/navigation_menu.xml" value="0.1787037037037037" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
